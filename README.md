@@ -65,10 +65,6 @@ open_to: Collaboration on frontend projects
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asadali52/Asadali52/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asadali52/Asadali52/output/snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Asadali52/Asadali52/output/snake.svg" />
-</picture>
+![Contribution Snake](https://raw.githubusercontent.com/Asadali52/Asadali52/output/snake-dark.svg)
 
 _If the snake does not appear yet, run the **Generate Snake** workflow once from the Actions tab._
