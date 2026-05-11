@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React / Next.js projects
 - 🌱 I’m learning advanced JavaScript & Redux
 - 💬 Ask me about React, Tailwind, JavaScript
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: itsasadali5@gmail.com
 
 ## 🛠️ Technologies & Tools
 - React
