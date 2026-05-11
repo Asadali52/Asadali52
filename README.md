@@ -20,4 +20,4 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
 
 ## 🌐 Connect with me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/itsasad-ali5/
