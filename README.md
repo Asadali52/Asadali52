@@ -49,6 +49,17 @@ open_to: Collaboration on frontend projects
 
 ---
 
+## 🚀 Featured Projects
+
+- [**Hospyra**](https://github.com/Asadali52/hospyra) - TypeScript-based web project focused on clean frontend structure and modern UI patterns.
+- [**Fake Store**](https://github.com/Asadali52/fake-store) - E-commerce style frontend project built to practice reusable components and product flows.
+- [**My Interactive Portfolio**](https://github.com/Asadali52/my-interactive-portfolio) - Personal portfolio experience with interactive UI and polished presentation.
+- [**3D Portfolio**](https://github.com/Asadali52/3D-Porftfolio) - Creative portfolio experiment blending frontend development with 3D visual elements.
+
+_Tip: Pin these repositories on your GitHub profile for more profile clicks._
+
+---
+
 ## 📊 GitHub Stats
 
 <p>
