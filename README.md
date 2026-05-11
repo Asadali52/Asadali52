@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Asad Ali
 
-<!--
-**Asadali52/Asadali52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on React / Next.js projects
+- 🌱 I’m learning advanced JavaScript & Redux
+- 💬 Ask me about React, Tailwind, JavaScript
+- 📫 How to reach me: your@email.com
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- React
+- Next.js
+- Tailwind CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+## 🌐 Connect with me
+- LinkedIn: https://linkedin.com/in/yourprofile
