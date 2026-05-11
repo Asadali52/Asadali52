@@ -32,7 +32,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asadali52&show_icons=true&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://img.shields.io/github/followers/Asadali52?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Asadali52?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/Asadali52/Asadali52?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last Commit" />
+</p>
 
 ## Streak Stats
 
